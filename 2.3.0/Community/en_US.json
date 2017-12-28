@@ -1,0 +1,124 @@
+{
+  "pages": [
+    {
+      "id": 1,
+      "name": "1",
+      "mainContent": {
+        "title": "What's new with Magento 2.3.0",
+        "imageUrl": "",
+        "content": [
+          {
+            "text": "Overview Text"
+          }
+        ],
+        "lists": []
+      },
+      "subHeading": [
+        {
+          "title": "Highlight 1 Title",
+          "imageUrl": "http://via.placeholder.com/65x58",
+          "content": "Highlight 1 Text"
+        },
+        {
+          "title": "Highlight 2 Title",
+          "imageUrl": "http://via.placeholder.com/65x58",
+          "content": "Highlight 2 Text."
+        },
+        {
+          "title": "Highlight 3 Title",
+          "imageUrl": "http://via.placeholder.com/65x58",
+          "content": "Highlight 3 Text"
+        }
+      ],
+      "footer": {
+        "content": "Footer"
+      }
+    },
+    {
+      "id": 2,
+      "name": "2",
+      "mainContent": {
+        "title": "2.3.0 Page 1 Title",
+        "imageUrl": "http://via.placeholder.com/55x49",
+        "content": [
+          {
+            "text": "Paragraph 1"
+          },
+          {
+            "text": "Paragraph 2"
+          },
+          {
+            "text": "Paragraph 3"
+          }
+        ],
+        "lists": []
+      },
+      "subHeading": [],
+      "footer": {
+        "content": ""
+      }
+    },
+    {
+      "id": 3,
+      "name": "3",
+      "mainContent": {
+        "title": "2.3.0 Page 2 Title",
+        "imageUrl": "http://via.placeholder.com/55x49",
+        "content": [
+          {
+            "text": "2.3.0 Page 2 Content"
+          }
+        ],
+        "lists": [
+          {
+            "text": "Item 1"
+          },
+          {
+            "text": "Item 2"
+          },
+          {
+            "text": "Item 3"
+          },
+          {
+            "text": "Item 4"
+          }
+        ]
+      },
+      "subHeading": [],
+      "footer": {
+        "content": ""
+      }
+    },
+    {
+      "id": 4,
+      "name": "4",
+      "mainContent": {
+        "title": "2.3.0 Page 3 Title",
+        "imageUrl": "http://via.placeholder.com/55x49",
+        "content": [
+          {
+            "text": "2.3.0 Page 3 Content"
+          }
+        ],
+        "lists": [
+          {
+            "text": "Item 1"
+          },
+          {
+            "text": "Item 2"
+          },
+          {
+            "text": "Item 3"
+          },
+          {
+            "text": "Item 4"
+          }
+        ]
+      },
+      "subHeading": [],
+      "footer": {
+        "content": ""
+      }
+    }
+  ]
+}
