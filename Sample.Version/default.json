@@ -4,11 +4,11 @@
       "id": 1,
       "name": "1",
       "mainContent": {
-        "title": "What's new with Magento 2.2.2",
+        "title": "What's new with Magento 2.3.0",
         "imageUrl": "",
         "content": [
           {
-            "text": "Magento 2.2.2 offers advanced new features, including:"
+            "text": "Magento 2.3.0 offers advanced new features, including:"
           }
         ],
         "lists": []
@@ -48,7 +48,7 @@
             "text": "As part of the Advanced Reporting service, we may also use your customer data for such purposes as benchmarking, improving our products and services, and providing you with new and improved analytics."
           },
           {
-            "text": "By using Magento 2.2.2, you agree to the Advanced Reporting https://magento.com/legal/terms/privacy [Privacy Policy] and https://magento.com/legal/terms/cloud-terms [Terms of Service]. You may opt out at any time from the Stores Configuration page."
+            "text": "By using Magento 2.3.0, you agree to the Advanced Reporting https://magento.com/legal/terms/privacy [Privacy Policy] and https://magento.com/legal/terms/cloud-terms [Terms of Service]. You may opt out at any time from the Stores Configuration page."
           }
         ],
         "lists": []
